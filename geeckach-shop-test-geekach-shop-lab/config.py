@@ -1,0 +1,6 @@
+PRODUCT = 'Battletome: Orruk Warclans Age of Sigmar'
+NAME = 'Khomenko Anastasiia Serhiivna'
+PHONE = '936338536'
+CITY = 'Львів'
+MAIL = 'nastyakhomenko@gmail.com'
+GEEKACH_SHOP_URL = 'https://geekach.com.ua'
